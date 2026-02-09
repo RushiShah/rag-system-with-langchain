@@ -1,0 +1,23 @@
+# Virtual Environment
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+share/
+
+# Vector DB / embeddings
+vector_db/
+
+# Data files
+docs_dir/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
